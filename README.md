@@ -50,8 +50,8 @@ Follow these instructions to get a copy of the project up and running on your lo
   - **Body:**
     ```json
     {
-        "firstName": "John",
-    	"lastName": "Doe",
+        "firstName": "Mohamed",
+    	"lastName": "Bouguern",
     	"startedDateInCompany": "2023-01-01"
     }
   - **Response:**
